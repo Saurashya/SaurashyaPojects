@@ -1,0 +1,26 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgb(228, 82, 37);
+  font-weight: bold;
+}
+
+.container {
+  align-items: center;
+  justify-content: center;
+  margin-top: 20vh;
+  font-size: 30px;
+}
+#name {
+  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+  font-size: 20px;
+}
