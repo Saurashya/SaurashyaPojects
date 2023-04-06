@@ -1,0 +1,5 @@
+This is code for BlackJack game
+
+I created this code while my practice sessions on Javscript By Scrimba.
+
+The images used in this project is not owned by me and no Copyright Infringement is Intended.

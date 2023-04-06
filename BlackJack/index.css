@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  background-image: url("table.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  font-size: 30px;
+}
+h1 {
+  color: goldenrod;
+  font-size: 120px;
+  text-shadow: 2px 2px gold;
+}
+.container {
+  position: relative;
+  top: 200px;
+  color: white;
+  font-size: 40px;
+}
+#message-el {
+  font-style: italic;
+  padding: 20px;
+}
+#start,
+#addCard {
+  font-size: 45px;
+  padding: 10px;
+  border-radius: 50px;
+  width: 100%;
+  height: auto;
+  background: gold;
+  margin-top: 30px;
+  color: green;
+  font-weight: bold;
+}
