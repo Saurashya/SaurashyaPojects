@@ -1,4 +1,4 @@
-Created Hangman Game to guess Characters From ONE PIECE Anime.
+Created Hangman Game to guess Fruits.
 
 The images used are not owned by me and no Copyright infringement is intended.
 
